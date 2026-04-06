@@ -289,6 +289,16 @@ img {
   margin-bottom: 0;
 }
 
+.about-link-row {
+  margin-top: 24px;
+}
+
+.text-link {
+  color: var(--rust-dark);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
 .about-aside {
   display: flex;
   align-items: flex-end;
